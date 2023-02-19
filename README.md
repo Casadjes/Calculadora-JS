@@ -1,5 +1,9 @@
 # Calculadora-JS
 
+- Tema Claro
+- Tema Oscuro
+- Implementacion de efecto en botones
+
 https://calculadora-922.netlify.app
 
 
